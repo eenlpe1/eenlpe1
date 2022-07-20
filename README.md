@@ -4,7 +4,7 @@
 
 
 - I'm currently enrolled at **Naga College Foundation, Inc.**
-- I’m currently learning ```Python```
+- Currently learning ```Python```
 - Tech Stuff Learner | Future Developer
 
 #### ⚙️ &nbsp;Tech Stacks
