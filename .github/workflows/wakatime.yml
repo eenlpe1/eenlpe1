@@ -16,6 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Updated the Readme
           TIME_RANGE: last_7_days
-          SHOW_TOTAL: true
-          SHOW_TIME: false
+          SHOW_TIME: true
           
