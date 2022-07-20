@@ -1,6 +1,6 @@
 > It's not about getting a 6 on your first roll, it's about rolling the dice until you get a 6 🎲 - ***Joma Tech***
 
-## Hi there &nbsp;👋
+### Hi there &nbsp;👋
 
 
 - I'm currently enrolled at **Naga College Foundation, Inc.**
@@ -17,8 +17,8 @@
 <div>
   <p align="center">
     <a href="https://github.com/eenlpe1">
-      <img width="44%" src="https://github-readme-stats.vercel.app/api?username=eenlpe1&show_icons=true&theme=onedark&hide_border=true">
-      <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=eenlpe1&theme=onedark&hide_border=true"/>
+      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=eenlpe1&show_icons=true&theme=onedark&hide_border=true">
+      <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=eenlpe1&theme=onedark&hide_border=true"/>
     </a>
   </p>
 </div>
