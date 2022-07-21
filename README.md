@@ -17,8 +17,8 @@
 <div>
   <p align="center">
     <a href="https://github.com/eenlpe1">
-      <img width="46%" src="https://github-readme-stats.vercel.app/api?username=eenlpe1&show_icons=true&theme=onedark&hide_border=true">
-      <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=eenlpe1&theme=onedark&hide_border=true"/>
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eenlpe1&show_icons=true&theme=onedark&hide_border=true">
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eenlpe1&theme=onedark&hide_border=true"/>
     </a>
   </p>
 </div>
