@@ -14,7 +14,5 @@ jobs:
       - uses: eenlpe1/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Updated the Readme
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
+          
           
