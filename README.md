@@ -14,7 +14,8 @@ Technologies that I use:
 Let's connect together!
 
 [![Linkedin: eenlpe1](https://img.shields.io/badge/-eenlpe1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eenlpe1/)](https://www.linkedin.com/in/eenlpe1/)
-[![GitHub Ghazi](https://img.shields.io/github/followers/eenlpe1?label=followers&style=social)](https://github.com/eenlpe1)
+[![Credly](https://img.shields.io/badge/Credly-005850?logo=credly&logoColor=#FF6A00)](#)
+[![GitHub eenlpe1](https://img.shields.io/github/followers/eenlpe1?label=followers&style=social)](https://github.com/eenlpe1)
 
 <p align="left">
   <img src="https://github.com/eenlpe1/eenlpe1/blob/master/generated/languages.svg#gh-dark-mode-only" />
