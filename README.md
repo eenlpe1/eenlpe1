@@ -1,7 +1,21 @@
+### Hello There! I'm Emmanuel!
 
+- Co-Founder at [ProdiSheesh](https://github.com/ProdiSheesh)
+- I'm currently working on my career path as a future ```Cloud Engineer ☁️```.
 
+Technologies that I use:
 
-<p align="center">
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)](#)
+
+Let's connect together!
+
+[![Linkedin: eenlpe1](https://img.shields.io/badge/-eenlpe1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eenlpe1/)](https://www.linkedin.com/in/eenlpe1/)
+[![GitHub Ghazi](https://img.shields.io/github/followers/eenlpe1?label=followers&style=social)](https://github.com/eenlpe1)
+
+<p align="left">
   <img src="https://github.com/eenlpe1/eenlpe1/blob/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://github.com/eenlpe1/eenlpe1/blob/master/generated/overview.svg#gh-dark-mode-only" />
 </p>
@@ -21,5 +35,3 @@ XML              1 hr 35 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-#### Inspired from: [athul waka-readme](https://github.com/athul/waka-readme) & [jstrieb github-stats](https://github.com/jstrieb/github-stats)
