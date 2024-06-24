@@ -1,4 +1,4 @@
-### Hello There! I'm Emmanuel!
+### Hello there! I'm Emmanuel!
 
 - Co-Founder at [ProdiSheesh](https://github.com/ProdiSheesh)
 - I'm currently working on my career path as a future ```Cloud Engineer ☁️```.
