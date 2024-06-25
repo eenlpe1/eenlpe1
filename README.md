@@ -12,24 +12,10 @@ Current technologies that I use:
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-Previous technologies that I used:
-
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
-
 Let's connect together!
 
 [![Linkedin: eenlpe1](https://img.shields.io/badge/-eenlpe1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eenlpe1/)](https://www.linkedin.com/in/eenlpe1/)
-[![Credly](https://img.shields.io/badge/Credly-005850?logo=credly&logoColor=#FF6A00)](#)
+[![Credly](https://img.shields.io/badge/Credly-005850?logo=credly&logoColor=#FF6A00)](https://www.credly.com/users/eenlpe1/badges)
 [![GitHub eenlpe1](https://img.shields.io/github/followers/eenlpe1?label=followers&style=social)](https://github.com/eenlpe1)
 
 <p align="left">
