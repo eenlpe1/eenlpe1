@@ -18,7 +18,7 @@ Let's connect together!
 [![Credly](https://img.shields.io/badge/Credly-005850?logo=credly&logoColor=#FF6A00)](https://www.credly.com/users/eenlpe1/badges)
 [![GitHub eenlpe1](https://img.shields.io/github/followers/eenlpe1?label=followers&style=social)](https://github.com/eenlpe1)
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/eenlpe1/eenlpe1/blob/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://github.com/eenlpe1/eenlpe1/blob/master/generated/overview.svg#gh-dark-mode-only" />
 </p>
