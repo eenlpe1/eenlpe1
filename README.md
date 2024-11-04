@@ -1,12 +1,11 @@
 ### Hello there! I'm Emmanuel!
 
 - Co-Founder at [ProdiSheesh](https://github.com/ProdiSheesh)
-- I'm currently working on my career path as a future ```Cloud Engineer ☁️```.
+- I'm currently working on my career path as a future ```Cloud Engineer/Solutions Architect ☁️```.
 
 Current technologies that I use:
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![CLI](https://img.shields.io/badge/CLI-%235391FE.svg?logo=powershell&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
