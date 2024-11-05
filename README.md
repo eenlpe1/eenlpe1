@@ -1,6 +1,5 @@
 ### Hello there! I'm Emmanuel!
 
-- Co-Founder at [ProdiSheesh](https://github.com/ProdiSheesh)
 - I'm currently working on my career path as a future ```Cloud Engineer/Solutions Architect ☁️```.
 
 Current technologies that I use:
