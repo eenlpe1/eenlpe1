@@ -2,14 +2,6 @@
 
 - I'm currently working on my career path as a future ```Cloud Engineer ☁️```
 
-Current technologies that I use:
-
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![CLI](https://img.shields.io/badge/CLI-%235391FE.svg?logo=powershell&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-
 Let's connect together!
 
 [![Linkedin: eenlpe1](https://img.shields.io/badge/-eenlpe1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eenlpe1/)](https://www.linkedin.com/in/eenlpe1/)
