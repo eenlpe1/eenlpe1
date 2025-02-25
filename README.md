@@ -1,6 +1,6 @@
 ### Hello there! I'm Emmanuel!
 
-- I'm currently working on my career path as a future ```Cloud Engineer ☁️```
+- I'm currently working on my career path as a future ```Cloud Engineer/DevOps/SRE ☁️```
 
 Let's connect together!
 
