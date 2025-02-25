@@ -1,4 +1,4 @@
-### Hello there! I'm Emmanuel!
+### Hello there, I'm Emmanuel!
 
 - I'm currently working on my career path as a future ```Cloud Engineer/DevOps/SRE ☁️```
 
