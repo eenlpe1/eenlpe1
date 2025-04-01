@@ -1,7 +1,6 @@
 ### Hello there, I'm Emmanuel!
 
-- I'm currently working on my career path as a future ```Cloud Engineer/DevOps ☁️```
-- Visit my Portfolio: [Emmanuel Enalpe III](https://emmanuelenalpe.vercel.app/)
+- I'm currently working as a ```Developer``` and soon to be a ```Cloud Engineer/DevOps ☁️```
 
 Let's connect together!
 
