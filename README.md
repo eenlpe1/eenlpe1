@@ -5,7 +5,7 @@
 Let's connect together!
 
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=eenlpe1)](https://www.github.com/eenlpe1/)
-[![Linkedin: eenlpe1](https://img.shields.io/badge/-eenlpe1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eenlpe1/)](https://www.linkedin.com/in/eenlpe1/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/eenlpe1/)
 [![Credly](https://img.shields.io/badge/Credly-005850?logo=credly&logoColor=#FF6A00)](https://www.credly.com/users/eenlpe1/badges)
 [![GitHub eenlpe1](https://img.shields.io/github/followers/eenlpe1?label=followers&style=social)](https://github.com/eenlpe1)
 
