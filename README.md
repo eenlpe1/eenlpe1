@@ -1,6 +1,6 @@
 ### Hello there, I'm Emmanuel!
 
-- I'm currently working as a ```Developer``` and soon to be a ```Cloud Engineer/DevOps ☁️```
+- I'm currently working as a ```Developer``` and improving my skills in ```DevOps```.
 
 Let's connect together!
 
