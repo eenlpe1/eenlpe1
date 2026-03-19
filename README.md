@@ -1,6 +1,6 @@
 ### Hello there, I'm Emmanuel!
 
-- I'm currently working as a ```Junior Developer``` and also doing ```DevOps``` tasks.
+- I'm currently working as a ```Software Developer``` and also a ```DevOps```.
 
 Let's connect together!
 
